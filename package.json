@@ -1,0 +1,23 @@
+{
+  "name": "tailcard",
+  "version": "1.0.0",
+  "description": "Tailwind Card Design Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asifadib/tailcard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asifadib/tailcard/issues"
+  },
+  "homepage": "https://github.com/asifadib/tailcard#readme",
+  "devDependencies": {
+    "tailwindcss": "^2.2.17"
+  }
+}
